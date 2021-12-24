@@ -1,0 +1,9 @@
+main: com.mk7smp.LukesBigPackage.Main
+version: 2.0
+name: LukesBigPackage
+author: pssLuke
+
+api-version: 1.13
+
+commands:
+  bots: 
